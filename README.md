@@ -41,6 +41,11 @@ The workflow includes:
  **YOLOv8 achieved the best overall performance**, while YOLOv5 was the most efficient.
 
 ---
+## Final result
+
+The following image shows a prediction from the optimal model developed in the iterative model improvement chapter. 
+[prediction](predicion_result_yolo.png)
+---
 
 ## Key Takeaways
 - Increasing model capacity significantly improved performance  
