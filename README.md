@@ -43,8 +43,8 @@ The workflow includes:
 ---
 ## Final result
 
-The following image shows a prediction from the optimal model developed in the iterative model improvement chapter. 
-[prediction](predicion_result_yolo.png)
+- The following image shows a prediction from the optimal model developed in the *Iterative Model Improvement* chapter. 
+![Prediction](prediction_result_yolo.png)
 ---
 
 ## Key Takeaways
