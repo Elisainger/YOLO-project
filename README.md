@@ -1,9 +1,12 @@
 # Advanced Object Detection and Comparative Study using YOLOv26
 
 Evaluation of YOLO deep learning models for object detection on the VisDrone dataset.  
-Course: *Deep Learning for Engineers (CMPE 401), University of British Columbia*
-Student: Elísa Inger Jónsdóttir
-Professor: Ling Bai
+
+Course: *Deep Learning for Engineers (CMPE 401), University of British Columbia* 
+
+Student: Elísa Inger Jónsdóttir 
+
+Professor: Ling Bai 
 
 ---
 
